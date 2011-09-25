@@ -1,5 +1,4 @@
 #!/bin/sh
-# $Id$
 
 if [ $# -ne 3 ]; then
     echo "Usage: $0 HOSTNAME IMAGE PARTITION"

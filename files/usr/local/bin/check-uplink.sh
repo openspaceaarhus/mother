@@ -1,5 +1,4 @@
 #!/bin/sh
-# $Id$
 
 LEDDEV=/dev/led/error
 ALARMOFF=0
